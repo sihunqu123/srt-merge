@@ -1,4 +1,4 @@
-const index = require('./index');
+const index = require('./merge');
 const fs = require('fs');
 const srt1 = fs.readFileSync('test_files/jpn_short.srt', 'utf-8');
 const srt2 = fs.readFileSync('test_files/chi_short.srt', 'utf-8');
