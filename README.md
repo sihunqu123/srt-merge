@@ -14,7 +14,7 @@ Beautify the srt format:
 
 # Usage
 
-node the-path-to-merge-script.js srt1 srt2 -o -f the-path-of-output-file
+node the-path-to-merge-script.js srt1 srt2 'top-bottom' -o -f the-path-of-output-file
 
 e.g.
 
