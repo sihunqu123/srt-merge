@@ -12,6 +12,11 @@ Beautify the srt format:
 + avoid unnecessary `undefine` in the merge-result file.
 + join lines of into 1 line for multiline subtitle.
 
+
+## Original Doc
+
+For more info, pls refer to [READ-ori](./README-ori.md).
+
 # Usage
 
 node the-path-to-merge-script.js srt1 srt2 'top-bottom' -o -f the-path-of-output-file
